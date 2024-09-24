@@ -9,11 +9,13 @@ Manchmal blickt man in die Hölle. Heute ist so ein Tag.
 
 [UTF7](https://de.wikipedia.org/wiki/UTF-7), das es zwar niemals in den Unicode-Standard geschafft hat, und das zur Zeit seiner Entwicklung dazu dienen sollte, Unicode-Zeichen in nicht 8-bit-festen Umgebungen verwenden zu können, ohne die Nachteile, welche die Verfahren mit sich brachten, die sich letztlich stattdessen etablierten...
 
-Eben jenes UTF7 scheint dennoch auch mehr als 30 Jahre nach der Stunde 0 vin Unicode in diesem Land noch nicht ganz tot zu sein. Ich bin ja wahrlich nicht mehr der Jüngste, aber ein Wort wie "+AMQ-rgernis" im Text einer deutschen Nachrichtenagentur hat selbst mich verwirrt.
+Eben jenes UTF7 scheint dennoch auch mehr als 30 Jahre nach der Stunde 0 von Unicode in diesem Land noch nicht ganz tot zu sein. 
+
+Ich bin ja wahrlich nicht mehr der Jüngste, aber ein Wort wie "+AMQ-rgernis" im Text einer deutschen Nachrichtenagentur hat selbst mich verwirrt.
 
 Wikipedia meint dazu: _"UTF-7 wurde entworfen, um diesen \[gemeint sind MIME, B64 und Co.\] zusätzlichen Datenverbrauch bei der Verwendung von Texten, die nur wenige Unicode-Zeichen enthalten, möglichst gering zu halten, und gleichzeitig Textpassagen, die in 7-bit-ASCII darstellbar sind, lesbar zu lassen._
 
-Als Geschenk für die Nachwelt die folgende Tabelle (...und solange Microsoft UTF7 noch nicht ganz aus .Net geworfen hat, kostet es ja auch nur wenige Zeilen, zu erzeugen).
+Als Geschenk für die Nachwelt die folgende Tabelle (...und solange Microsoft UTF7 noch nicht ganz aus .Net geworfen hat, kostet es ja auch nur wenige Zeilen, die zu erzeugen).
 
 Ansonsten sag' ich mal: Glück gehabt, die [interstellare Botschaft](https://de.wikipedia.org/wiki/Voyager_Golden_Record) der Menschheit ist mit Voyager 1 und Voyager 2 schon vor der segensreichen Erfindung von UTF7 ins All geschossen worden...
 
