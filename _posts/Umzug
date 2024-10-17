@@ -1,0 +1,14 @@
+---
+title: "Umzug"
+date: 2024-10-17
+---
+Umzug abgeschlossen
+===================
+
+Früher haben wir mal einen Team Foundation Server im eigenen Rechenzentzrum betrieben. Jahrelang problemlos. Alle Repos von längst nicht mehr aktiven Projekten habe ich heute noch.
+
+Irgendwann viel später musste die Kiste einem selbst gehosteten Gitea weichen. Betrieben von jungen Kollegen, denen die Schuhe leider vielleicht manchmal doch zu groß waren. Docker, Kubernates... ganz heißer S***ß. Also... vielleicht. Also, wenn man jederzeit weiß, was man da tut.
+
+Nach dem (jepp, ich hab' aufgehört zu zählen) wer-weiß-wie-vielten Datenverlust bin ich jetzt - zumindest schon einmal mit ein paar der aktuellen Projekte - umgezogen zu GitHub. 
+
+Kann ja nur besser werden.
